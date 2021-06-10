@@ -1,0 +1,2 @@
+rootProject.name = "StickyBoard"
+include ':app'
